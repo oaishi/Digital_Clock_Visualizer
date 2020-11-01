@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1462733028 source:d:\digitalclock\clock.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1462727645 d:\digitalclock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1462964895 source:c:\users\hp\desktop\digitalclock\clock.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1462727645 c:\users\hp\desktop\digitalclock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1462964896 source:e:\1-1\igraphics offline\clock.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1462727646 e:\1-1\igraphics offline\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
